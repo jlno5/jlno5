@@ -6,7 +6,7 @@ I live in germany (Baden-Würrtemberg) and I am a student.
 I want to learn Kotlin and C#. My dream is to work at FAANG (Facebook, Amazon, Apple, Netflix or Google).
 
 ## Do you have a project idea for me?
-You can send me a direct message on twitter ([@JanN56837995](https://twitter.com/JanN56837995)).
+You can send me a direct message on twitter ([@jlno05](https://twitter.com/jlno05)).
 
 # Stats about me
 <img src="https://github-readme-stats.vercel.app/api?username=jlno5&count_private=true&include_all_commits=true&show_icons=true&theme=onedark">
